@@ -2,7 +2,7 @@
 title: "Analista de requisitos, quem são, onde vivem, do que se alimentam?"
 collection: talks
 type: "talk"
-permalink: /talks/2014-03-01-talk-3
+permalink: /talks/analistas_quem_sao_o_que_comem
 venue: "Home Office"
 date: 01/12/2022
 location: "Porto Feliz, SP"
