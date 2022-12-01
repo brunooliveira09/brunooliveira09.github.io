@@ -38,8 +38,8 @@ Experiência Profissional
   
 Experiência Acadêmica
 ======
-* **Pontifícia Universidade Católica de Campinas (PUC - Campinas)** | Bacharel em Sistemas de Informação (Incompleto)
-* **ETEC Drª Ruth Cardoso** | Técnico em Desenv. de Software
+**Pontifícia Universidade Católica de Campinas (PUC - Campinas)** - Bacharel em Sistemas de Informação (Incompleto)
+**ETEC Drª Ruth Cardoso** - Técnico em Desenv. de Software
 
 Habilidades e Competências
 ======
