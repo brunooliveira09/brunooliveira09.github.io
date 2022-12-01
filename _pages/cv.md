@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-#{% include base_path %}
+{% include base_path %}
 
 Perfil
 ======
@@ -18,15 +18,14 @@ Esse é um resumo da minha carreira profissional na área da Tecnologia da Infor
 
 Experiência Profissional
 ======
-**Analista de Negócios/Soluções** | Desde Jun/2017
-Sottelli, Campinas
+**Analista de Negócios/Soluções** **|** Desde Jun/2017 **|** Sottelli, Campinas
 * Levantamento e especificação de requisitos;
 * Definição de escopo;
 * Acompanhamento das etapas do projeto (utilizando MS Project);
 * Modelagem de processos de negócio BPMN (utilizando Bizagi).
 
-**Analista de Negócios/Soluções** | Out/2015 - Jun/2017
-Vinhasoft Sistemas, Campinas
+
+**Analista de Negócios/Soluções** **|** Out/2015 - Jun/2017 **|** Vinhasoft Sistemas, Campinas
 * Levantamento e especificação de requisitos;
 * Definição de escopo;
 * Diagramas UML (utilizando Enterprise architect);
@@ -34,8 +33,8 @@ Vinhasoft Sistemas, Campinas
 * Acompanhamento das etapas do projeto (utilizando MS Project);
 * Modelagem de processos de negócio BPMN (utilizando Bizagi).
 
-**Analista de Negócios/Soluções** | jan/2013 - mai/2015
-Nortia IT, São Paulo
+
+**Analista de Negócios/Soluções** **|** jan/2013 - mai/2015 **|** Nortia IT, São Paulo
 * Levantamento e especificação de requisitos;
 * Definição de escopo;
 * Diagramas UML (utilizando Enterprise architect);
