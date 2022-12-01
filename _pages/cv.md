@@ -25,6 +25,7 @@ Experiência Profissional
 * Modelagem de processos de negócio BPMN (utilizando Bizagi).
 
 
+
 **Analista de Negócios/Soluções** **|** Out/2015 - Jun/2017 **|** Vinhasoft Sistemas, Campinas
 * Levantamento e especificação de requisitos;
 * Definição de escopo;
@@ -32,6 +33,7 @@ Experiência Profissional
 * Elaboração de protótipos de telas (utilizando Axure e Pencil);
 * Acompanhamento das etapas do projeto (utilizando MS Project);
 * Modelagem de processos de negócio BPMN (utilizando Bizagi).
+
 
 
 **Analista de Negócios/Soluções** **|** jan/2013 - mai/2015 **|** Nortia IT, São Paulo
