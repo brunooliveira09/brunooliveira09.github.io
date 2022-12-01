@@ -16,6 +16,9 @@ Por aqui, você vai encontrar alguns detalhes sobre mim, minhas experiências e 
 
 Objetivos profissionais
 =====
-Relacionamento
+Além de agregar valor às relações pessoais, através da minha experiência profissional e de vida, visão sistêmica, conhecimento em análise de requisitos, melhoria de processos e gestão de produtos, almejo ser referência em soluções tecnológicas dentro e fora da organização.
+[Aqui você pode visualizar detalhes do meu Currículo](https://brunooliveira09.github.io/cv/)
 
-
+Hobbies
+=====
+Além de agregar valor às relações pessoais, através da minha experiência profissional e de vida, visão sistêmica, conhecimento em análise de requisitos, melhoria de processos e gestão de produtos, almejo ser referência em soluções tecnológicas dentro e fora da organização.
