@@ -16,4 +16,3 @@ Como eu disse, a minha linha de raciocínio tem a pessoa e suas relações no ce
 
 Outro exemplo? Melhoria de processos no escritório, primeiramente o objetivo é melhorar a rotina do profissional, de modo a reduzir ao máximo seu esforço físico e mental, em decorrência disso a empresa também será beneficiada na redução de despesas com papéis ou outros insumos, as vezes até rearanjo de espaço para aumentar novamente a capacidade produtiva.
 
-
