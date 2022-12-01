@@ -52,7 +52,6 @@ Habilidades e Competências
 
 Cursos complementares
 ======
-Abaixo segue alguns dos cursos extras que realizei a fim de agregar conhecimento e valor a minha carreira.
 * Design Thinking (6 horas)
 * Design centrado no usuário (3 horas)
 * Iniciação em Tecnologia da Informação e Comunicação (14 horas)
