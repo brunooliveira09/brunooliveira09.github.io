@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
---{% include base_path %}
 Perfil
 ======
 Atualmente desempenho a função de Analista de Soluções (SALESFORCE) na cidade de Campinas, porém exerci a função de Analista de Soluções por 3 anos na cidade de São Paulo, onde obtive considerável experiência na função. Identificar os desafios e analisar o contexto visando propor a melhor solução, é o que me torna cada vez mais apaixonado pela profissão.
