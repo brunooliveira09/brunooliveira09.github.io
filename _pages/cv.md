@@ -9,51 +9,62 @@ redirect_from:
 
 {% include base_path %}
 
-PERFIL
+Perfil
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Atualmente desempenho a função de Analista de Soluções (SALESFORCE) na cidade de Campinas, porém exerci a função de Analista de Soluções por 3 anos na cidade de São Paulo, onde obtive considerável experiência na função. Identificar os desafios e analisar o contexto visando propor a melhor solução, é o que me torna cada vez mais apaixonado pela profissão.
 
-EXPERIÊNCIAS PROFISSIONAIS
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Esse é um resumo da minha carreira profissional na área da Tecnologia da Informação.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-HABILIDADES & COMPETÊNCIAS
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-CURSOS COMPLEMENTARES
+Experiência Profissional
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Analista de Negócios/Soluções | Desde Jun/2017
+  Sottelli, Campinas
+    * Levantamento e especificação de requisitos;
+    * Definição de escopo;
+    * Acompanhamento das etapas do projeto (utilizando MS Project);
+    * Modelagem de processos de negócio BPMN (utilizando Bizagi).
+
+* Analista de Negócios/Soluções | Out/2015 - Jun/2017
+  Vinhasoft Sistemas, Campinas
+    * Levantamento e especificação de requisitos;
+    * Definição de escopo;
+    * Diagramas UML (utilizando Enterprise architect);
+    * Elaboração de protótipos de telas (utilizando Axure e Pencil);
+    * Acompanhamento das etapas do projeto (utilizando MS Project);
+    * Modelagem de processos de negócio BPMN (utilizando Bizagi).
+
+* Analista de Negócios/Soluções | jan/2013 - mai/2015
+  Nortia IT, São Paulo
+    * Levantamento e especificação de requisitos;
+    * Definição de escopo;
+    * Diagramas UML (utilizando Enterprise architect);
+    * Elaboração de protótipos de telas (utilizando Axure e Pencil);
+    * Acompanhamento das etapas do projeto (utilizando MS Project);
+    * Modelagem de processos de negócio BPMN (utilizando Bizagi).
   
-Talks
+Experiência Acadêmica
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* PUC - Campinas
+  Bacharel em Sistemas de Informação
+  2015 - ...
+
+* ETEC Drª Ruth Cardoso
+  Técnico em Desenv. de Software
+  2010 - 2011
+
+Habilidades e Competências
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Levantamento de requisitos
+* Modelagem de processos
+* SCRUM
+* UML
+* Wireframe & Protótipo
+
+Cursos complementares
 ======
-* Currently signed in to 43 different slack teams
+Abaixo segue alguns dos cursos extras que realizei a fim de agregar conhecimento e valor a minha carreira.
+* Design Thinking (6 horas)
+* Design centrado no usuário (3 horas)
+* Iniciação em Tecnologia da Informação e Comunicação (14 horas)
+
