@@ -20,3 +20,12 @@ Antes de mais nada, Analista é um perfil profissional, segundo a glassdor:
 >"Os analistas pesquisam, analisam e relatam as diversas tendências. Usando os dados públicos disponíveis ou coletados, os analistas tentam obter ideias que podem ser usadas para criar estratégias de ação em diferentes empresas. Os analistas são flexíveis e trabalham em vários setores, com diferentes tipos de base de dados, e podem ser solicitados a dedicar um tempo significativo para gerar e entregar relatórios.".
 
 Ok, Bruno, mas o que é então requisitos ou negócios?
+
+Segundo o dicionário online dicio.com.br, requisito é:
+>Condição básica e necessária para se obter alguma coisa ou para alcançar determinado propósito.
+
+Agora, unindo as duas informações, inferimos então que o analista de requisitos analisa e pesquisa tendências de mercado para obter ideias e estratégias para especificar os requisitos necessários para o desenvolvimento do melhor software.
+
+Simplificando no nível hard, temos:
+>"Eu analiso e escrevo como que tem que ser um aplicativo ou sistema de para computador"
+>(aos especialistas, essa é uma abstração que utilizo para pessoas leigas)
