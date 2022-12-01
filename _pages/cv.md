@@ -38,12 +38,10 @@ Experiência Profissional
   
 Experiência Acadêmica
 ======
-**PUC - Campinas**
-* Bacharel em Sistemas de Informação
+**PUC - Campinas** | Bacharel em Sistemas de Informação
 * 2015 - ...
 
-**ETEC Drª Ruth Cardoso**
-* Técnico em Desenv. de Software
+**ETEC Drª Ruth Cardoso** | Técnico em Desenv. de Software
 * 2010 - 2011
 
 Habilidades e Competências
