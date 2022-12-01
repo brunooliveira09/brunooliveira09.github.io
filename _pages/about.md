@@ -14,6 +14,6 @@ Tenho 33 anos, natural de São Vicente, e após uma passagem enriquecedora em Ca
 
 Por aqui, você vai encontrar um pouco mais sobre mim, minhas experiências e algumas ideias gerais.
 
-Analista de requisitos, quem são, o que fazem, onde vivem, do que se alimentam?
+Analista de requisitos, quem são, onde vivem, do que se alimentam?
 =====
 Antes de mais nada, Analista é um perfil profissional, segundo a glassdor, "Os analistas pesquisam, analisam e relatam as diversas tendências. entregar relatórios". Ok, Bruno, mas o que é então requisitos ou negócios?
