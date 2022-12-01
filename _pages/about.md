@@ -12,7 +12,7 @@ Tenho 33 anos, natural de São Vicente, e após uma passagem enriquecedora em Ca
 
 Por aqui, você vai encontrar alguns detalhes sobre mim, minhas experiências e algumas ideias gerais.
 
-Análise a moda da casa
+Análise à moda da casa
 =====
 Devaneio aqui, os pontos que influenciam nas análises que realizo no dia a dia.
 
