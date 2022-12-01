@@ -1,7 +1,7 @@
 ---
 title: "Analista de requisitos, quem são, onde vivem, do que se alimentam?"
 collection: talks
-type: "talk"
+type: "Talk"
 permalink: /talks/analistas_quem_sao_o_que_comem
 venue: "Home Office"
 date: 01/12/2022
@@ -21,3 +21,8 @@ Eu vou na empresa e analiso a melhor forma de resolver um problema do dia a dia;
 Analistas de sistemas podem trabalham em qualquer empresa que desenvolve software ou que tenham software, ou seja, dependendo da necessidade da empresa, o analista pode trabalhar em qualquer empresa. O local de trabalho do analista de sistemas, pode ser no escritório da empresa (fisicamente) ou de casa (Home Office). Uma atenção para quem trabalha de casa, dependendo da empresa, você precisa visitar clientes, para analisar a rotina para realizar seu trabalho da melhor forma possível.
 
 Analistas se “alimentam” basicamente de junk-food e café, de preferência um cafezinho de torra média, com a filtragem correta, mas… Não há problema se for o tradicional de mercado mesmo, o que importa é o hábito de virar a chícara.
+
+E este é um retrato abstrato da minha vida profissional.
+
+
+Obs.: Este texto é vivo, logo, sempre sofrerá atualizações
