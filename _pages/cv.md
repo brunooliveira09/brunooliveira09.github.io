@@ -19,38 +19,48 @@ Esse é um resumo da minha carreira profissional na área da Tecnologia da Infor
 Experiência Profissional
 ======
 **Analista de Negócios/Soluções** | Desde Jun/2017
+
 Sottelli, Campinas
-    * Levantamento e especificação de requisitos;
-    * Definição de escopo;
-    * Acompanhamento das etapas do projeto (utilizando MS Project);
-    * Modelagem de processos de negócio BPMN (utilizando Bizagi).
+
+* Levantamento e especificação de requisitos;
+* Definição de escopo;
+* Acompanhamento das etapas do projeto (utilizando MS Project);
+* Modelagem de processos de negócio BPMN (utilizando Bizagi).
 
 **Analista de Negócios/Soluções** | Out/2015 - Jun/2017
+
 Vinhasoft Sistemas, Campinas
-    * Levantamento e especificação de requisitos;
-    * Definição de escopo;
-    * Diagramas UML (utilizando Enterprise architect);
-    * Elaboração de protótipos de telas (utilizando Axure e Pencil);
-    * Acompanhamento das etapas do projeto (utilizando MS Project);
-    * Modelagem de processos de negócio BPMN (utilizando Bizagi).
+
+* Levantamento e especificação de requisitos;
+* Definição de escopo;
+* Diagramas UML (utilizando Enterprise architect);
+* Elaboração de protótipos de telas (utilizando Axure e Pencil);
+* Acompanhamento das etapas do projeto (utilizando MS Project);
+* Modelagem de processos de negócio BPMN (utilizando Bizagi).
 
 **Analista de Negócios/Soluções** | jan/2013 - mai/2015
+
 Nortia IT, São Paulo
-    * Levantamento e especificação de requisitos;
-    * Definição de escopo;
-    * Diagramas UML (utilizando Enterprise architect);
-    * Elaboração de protótipos de telas (utilizando Axure e Pencil);
-    * Acompanhamento das etapas do projeto (utilizando MS Project);
-    * Modelagem de processos de negócio BPMN (utilizando Bizagi).
+
+* Levantamento e especificação de requisitos;
+* Definição de escopo;
+* Diagramas UML (utilizando Enterprise architect);
+* Elaboração de protótipos de telas (utilizando Axure e Pencil);
+* Acompanhamento das etapas do projeto (utilizando MS Project);
+* Modelagem de processos de negócio BPMN (utilizando Bizagi).
   
 Experiência Acadêmica
 ======
 **PUC - Campinas**
+
 Bacharel em Sistemas de Informação
+
 2015 - ...
 
 **ETEC Drª Ruth Cardoso**
+
 Técnico em Desenv. de Software
+
 2010 - 2011
 
 Habilidades e Competências
