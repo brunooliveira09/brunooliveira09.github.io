@@ -14,6 +14,6 @@ Por aqui, você vai encontrar alguns detalhes sobre mim, minhas experiências e 
 
 Análise a minha maneira 
 =====
-Devaneio aqui sobre os pontos que influenciam nas análises que realizo no dia a dia.
+Devaneio aqui, os pontos que influenciam nas análises que realizo no dia a dia.
 
-Criamos sistemas, para pessoas...
+Em via de regra, criamos sistemas, para pessoas...
