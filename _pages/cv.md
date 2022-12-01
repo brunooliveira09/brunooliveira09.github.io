@@ -18,14 +18,14 @@ Esse é um resumo da minha carreira profissional na área da Tecnologia da Infor
 
 Experiência Profissional
 ======
-* Analista de Negócios/Soluções | Desde Jun/2017
+**Analista de Negócios/Soluções** | Desde Jun/2017
 Sottelli, Campinas
     * Levantamento e especificação de requisitos;
     * Definição de escopo;
     * Acompanhamento das etapas do projeto (utilizando MS Project);
     * Modelagem de processos de negócio BPMN (utilizando Bizagi).
 
-* Analista de Negócios/Soluções | Out/2015 - Jun/2017
+**Analista de Negócios/Soluções** | Out/2015 - Jun/2017
 Vinhasoft Sistemas, Campinas
     * Levantamento e especificação de requisitos;
     * Definição de escopo;
@@ -34,7 +34,7 @@ Vinhasoft Sistemas, Campinas
     * Acompanhamento das etapas do projeto (utilizando MS Project);
     * Modelagem de processos de negócio BPMN (utilizando Bizagi).
 
-* Analista de Negócios/Soluções | jan/2013 - mai/2015
+**Analista de Negócios/Soluções** | jan/2013 - mai/2015
 Nortia IT, São Paulo
     * Levantamento e especificação de requisitos;
     * Definição de escopo;
@@ -45,11 +45,11 @@ Nortia IT, São Paulo
   
 Experiência Acadêmica
 ======
-* PUC - Campinas
+**PUC - Campinas**
 Bacharel em Sistemas de Informação
 2015 - ...
 
-* ETEC Drª Ruth Cardoso
+**ETEC Drª Ruth Cardoso**
 Técnico em Desenv. de Software
 2010 - 2011
 
