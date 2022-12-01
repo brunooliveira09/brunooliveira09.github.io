@@ -17,8 +17,16 @@ Por aqui, você vai encontrar alguns detalhes sobre mim, minhas experiências e 
 Objetivos profissionais
 =====
 Além de agregar valor às relações pessoais, através da minha experiência profissional e de vida, visão sistêmica, conhecimento em análise de requisitos, melhoria de processos e gestão de produtos, almejo ser referência em soluções tecnológicas dentro e fora da organização.
+
 [Aqui você pode visualizar detalhes do meu Currículo](https://brunooliveira09.github.io/cv/)
 
-Hobbies
+
+Hobbies e Interesses
 =====
-Além de agregar valor às relações pessoais, através da minha experiência profissional e de vida, visão sistêmica, conhecimento em análise de requisitos, melhoria de processos e gestão de produtos, almejo ser referência em soluções tecnológicas dentro e fora da organização.
+Relaciono aqui alguns hobbies e interesses que eu tenho, quando não estou trabalhando:
+* Confraternizar entre amigas e amigos;
+* Comer comida japonesa;
+* Ouvir músicas aleatóriamente;
+* Aprender coisas aleatórias;
+* Ler livros;
+* Criar coisas (sou um maker frustrado).
