@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Bruno Oliveira / Site Title"
+title                    : "Bruno Oliveira"
 title_separator          : "-"
 name                     : &name "Bruno Oliveira"
 description              : &description "Descrição pessoal"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://brunooliveira09.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "brunooliveira09/brunooliveira09.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Analista de Negócios"
+  name             : "Bruno Oliveira"
   avatar           : "profile.png"
-  bio              : "Bio"
+  bio              : "Analista de Soluções tecnológicas há mais de 10 anos, viciado em automatizar tarefas e melhorar processos."
   location         : "Porto Feliz / SP"
   employer         :
   pubmed           : 
