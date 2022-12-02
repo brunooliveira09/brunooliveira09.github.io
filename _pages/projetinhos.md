@@ -25,7 +25,7 @@ Cafuné Kids
 : E-commerce da loja de roupa infantil Cafuné Kids
 
 
-## Ideias
+## 	:bulb: Ideias
 
 Hackaplay
 : Ensinar lógica de programação para crianças nas favelas, de maneira lúdica e utilizando materiais reciclados
