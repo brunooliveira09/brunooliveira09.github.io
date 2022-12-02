@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Concluídos
+## :white_check_mark:	Concluídos
 
 Sinais de roletas
 : Bot em Python que recupera os dados das roletas da Playtech e sugere jogadas em um canal do Telegram
