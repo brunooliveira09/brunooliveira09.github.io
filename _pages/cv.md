@@ -15,7 +15,7 @@ A mais de 10 anos contribuindo (direta ou indiretamente) para melhorias na socie
 Cursei até o 2º ano do curso de Sistemas Informação (Análise de Sistemas) na PUC - Campinas. Além de ter a Formação técnica no curso de Informática (ênfase em Desenvolvimento de sistemas) pela Etec - São Vicente.
 
 
-Experiência Profissional
+Experiência
 ======
 **Analista de Requisitos/Negócios **|** Desde Nov/2022 **|** DOT Digital Group, Florianópolis
 * Levantamento e especificação de requisitos.
@@ -48,7 +48,7 @@ Experiência Profissional
 * Acompanhamento das etapas do projeto (utilizando MS Project);
 * Modelagem de processos de negócio BPMN (utilizando Bizagi).
   
-Experiência Acadêmica
+Formação Acadêmica
 ======
 * **Pontifícia Universidade Católica de Campinas** - Bacharel em Sistemas de Informação (Incompleto)
 * **ETEC Drª Ruth Cardoso** - Técnico em Desenv. de Software
