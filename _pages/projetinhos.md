@@ -17,7 +17,7 @@ redirect_from:
 
 **Agendamento automático de pagamentos** - Automação em Javascript, criada no Google App Script para criar eventos na agenda do Google de acordo com ações em uma planilha do Google
 
-**Cafuné Kids** - E-commerce da loja de roupa infantil Cafuné Kids
+**Cafuné Kids** - E-commerce em Wordpress da loja de roupa infantil
 
 
 ## Ideias
