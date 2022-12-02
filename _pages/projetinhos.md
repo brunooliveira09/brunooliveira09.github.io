@@ -1,6 +1,6 @@
 ---
-permalink: /projetinhos/
-title: "Projetinhos e estudos"
+permalink: /projetos/
+title: "Projetos e estudos"
 author_profile: true
 redirect_from: 
   - /md/
