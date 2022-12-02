@@ -11,7 +11,7 @@ redirect_from:
 
 **[Agendamento automático de pagamentos](https://github.com/brunooliveira09/Auto-Agendar-Pagamento)** - Automação em Javascript, criada no Google App Script para criar eventos na agenda do Google de acordo com ações em uma planilha do Google.
 
-**[Cafuné Kids](https://usecafune.com.br)** - E-commerce em Wordpress da loja de roupa infantil.
+**[Cafuné Kids](https://usecafune.com.br)** - E-commerce em Wordpress da loja de roupa infantil Cafuné Kids.
 
 **[Jogo da memória lembrar para combater](https://lembrarparacombater.ml/)** - Contribuição na criação de um jogo de memória online. A proposta é trazer de forma lúdica e acessível as tipificações das violências sexuais contra crianças e adolescentes.
 
