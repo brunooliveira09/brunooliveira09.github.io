@@ -26,7 +26,7 @@ Experiência
 * Levantamento e especificação de requisitos;
 * Testes funcionais.
 
-**Analista de Negócios/Soluções** **|** Jun/2017 - Jul/2022 **|** Sottelli, Campinas
+**Analista de Negócios/Soluções** **|** Jun/2017 - Jul/2018 **|** Sottelli, Campinas
 * Coordenação de projetos;
 * Mapeamento de processos de negócio (BPMN);
 * Levantamento e especificação de requisitos e dicionário de dados;
