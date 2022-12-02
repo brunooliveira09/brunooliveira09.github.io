@@ -25,9 +25,8 @@ Hobbies e Interesses
 =====
 Relaciono aqui alguns hobbies e interesses que eu tenho, quando não estou trabalhando:
 * Confraternizar entre amigas e amigos;
-* Comer comida japonesa;
-* Ouvir músicas aleatóriamente;
-* Aprender coisas aleatórias;
-* Automatizar atividades pessoais;
-* Ler livros;
-* Criar coisas (sou um maker frustrado).
+* Comida japonesa;
+* Músicas;
+* Aprender;
+* Automatizar coisas;
+* Ler livros.
