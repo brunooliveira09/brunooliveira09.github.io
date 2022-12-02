@@ -27,4 +27,5 @@ Cafuné Kids
 
 ## Ideias
 
-* Automação residencial
+Hackaplay
+: Ensinar lógica de programação para crianças nas favelas, de maneira lúdica e utilizando materiais reciclados
