@@ -63,8 +63,8 @@ Habilidades e Competências
 
 Cursos complementares
 ======
-* OKR Essencial - Feedz by TOTVS | out de 2022
-* Green Belt em Lean Seis Sigma - Grupo Voitto | fev de 2022
-* Scrum Foundation Professional Certificate (SFPC) - CertiProfCertiProf | jun de 2020
-* SCRUM: AGILIDADE EM SEU PROJETOS - Alura | abr de 2020
+* OKR Essencial - Feedz by TOTVS (out de 2022)
+* Green Belt em Lean Seis Sigma - Grupo Voitto (fev de 2022)
+* Scrum Foundation Professional Certificate (SFPC) - CertiProfCertiProf (jun de 2020)
+* SCRUM: AGILIDADE EM SEU PROJETOS - Alura (abr de 2020)
 
