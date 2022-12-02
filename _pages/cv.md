@@ -8,17 +8,29 @@ redirect_from:
 ---
 Perfil
 ======
-Atualmente desempenho a função de Analista de Soluções (SALESFORCE) na cidade de Campinas, porém exerci a função de Analista de Soluções por 3 anos na cidade de São Paulo, onde obtive considerável experiência na função. Identificar os desafios e analisar o contexto visando propor a melhor solução, é o que me torna cada vez mais apaixonado pela profissão.
+Profissional de TI com experiência em análise e levantamento de requisitos para soluções tecnológicas.
 
-Esse é um resumo da minha carreira profissional na área da Tecnologia da Informação.
+A mais de 10 anos contribuindo (direta ou indiretamente) para melhorias na sociedade, através de soluções tecnológicas e melhoria de processos. Para desempenhar minha função, ao longo deste período utilizei diversas metodologias e ferramentas como Scrum, Kanban, BPMN, Prototipagem de telas, Modelagem de banco de dados (MER).
+
+Cursei até o 2º ano do curso de Sistemas Informação (Análise de Sistemas) na PUC - Campinas. Além de ter a Formação técnica no curso de Informática (ênfase em Desenvolvimento de sistemas) pela Etec - São Vicente.
+
 
 Experiência Profissional
 ======
-**Analista de Negócios/Soluções** **|** Desde Jun/2017 **|** Sottelli, Campinas
+**Analista de Requisitos/Negócios **|** Desde Nov/2022 **|** DOT Digital Group, Florianópolis
+* Levantamento e especificação de requisitos.
+
+**Analista de Funcional** **|** Dez/2018 - Jul/2022 **|** e.Mix, Campinas
+* Coordenação de implementações;
+* Mapeamento de processos de negócio (BPMN);
 * Levantamento e especificação de requisitos;
-* Definição de escopo;
-* Acompanhamento das etapas do projeto (utilizando MS Project);
-* Modelagem de processos de negócio BPMN (utilizando Bizagi).
+* Testes funcionais.
+
+**Analista de Negócios/Soluções** **|** Jun/2017 - Jul/2022 **|** Sottelli, Campinas
+* Coordenação de projetos;
+* Mapeamento de processos de negócio (BPMN);
+* Levantamento e especificação de requisitos e dicionário de dados;
+* Testes funcionais.
 
 **Analista de Negócios/Soluções** **|** Out/2015 - Jun/2017 **|** Vinhasoft Sistemas, Campinas
 * Levantamento e especificação de requisitos;
@@ -51,7 +63,8 @@ Habilidades e Competências
 
 Cursos complementares
 ======
-* Design Thinking (6 horas)
-* Design centrado no usuário (3 horas)
-* Iniciação em Tecnologia da Informação e Comunicação (14 horas)
+* OKR Essencial - Feedz by TOTVS | out de 2022
+* Green Belt em Lean Seis Sigma - Grupo Voitto | fev de 2022
+* Scrum Foundation Professional Certificate (SFPC) - CertiProfCertiProf | jun de 2020
+* SCRUM: AGILIDADE EM SEU PROJETOS - Alura | abr de 2020
 
