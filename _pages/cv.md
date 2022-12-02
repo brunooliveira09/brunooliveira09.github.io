@@ -17,7 +17,7 @@ Cursei até o 2º ano do curso de Sistemas Informação (Análise de Sistemas) n
 
 Experiência
 ======
-**Analista de Requisitos/Negócios **|** Desde Nov/2022 **|** DOT Digital Group, Florianópolis
+**Analista de Requisitos/Negócios** **|** Desde Nov/2022 **|** DOT Digital Group, Florianópolis
 * Levantamento e especificação de requisitos.
 
 **Analista de Funcional** **|** Dez/2018 - Jul/2022 **|** e.Mix, Campinas
