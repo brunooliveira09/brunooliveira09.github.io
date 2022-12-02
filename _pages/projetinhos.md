@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## :white_check_mark:	Concluídos
+:white_check_mark:	## Concluídos
 
 Sinais de roletas
 : Bot em Python que recupera os dados das roletas da Playtech e sugere jogadas em um canal do Telegram
@@ -25,7 +25,7 @@ Cafuné Kids
 : E-commerce da loja de roupa infantil Cafuné Kids
 
 
-## 	:bulb: Ideias
+:bulb: ## Ideias
 
 Hackaplay
 : Ensinar lógica de programação para crianças nas favelas, de maneira lúdica e utilizando materiais reciclados
