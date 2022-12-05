@@ -25,3 +25,5 @@ redirect_from:
 ## Ideias
 
 **[Hackaplay](https://github.com/brunooliveira09/Hackaplay)** - Ensinar lógica de programação para crianças nas favelas, de maneira lúdica e utilizando materiais reciclados.
+
+**[Cobrança automática por Whatsapp](#)** - A ideia é complementar o projeto de agendamento automático de pagamento, considerando cobrar ao terceiro (via Whatsapp) o comprovante de viagem, para que posteriormente seja registrado na planilha para agendar automaticamente.
