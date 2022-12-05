@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-Sou um eterno entusiasta da automação, melhoria de processos e cultura maker e como não é meu perfil profissional não é do desenvolvedor, eu arrisco alguns códigos feios para implementar projetos pessoais. Aqui relaciono alguns projetos de estudos ou não que desenvolvi e co-participei.
+Sou um eterno entusiasta da automação, melhoria de processos e cultura maker e como meu perfil profissional não é de desenvolvedor, eu arrisco alguns códigos feios para implementar projetos pessoais. Aqui relaciono alguns projetos de estudos ou não que desenvolvi e co-participei.
 ## Concluídos
 
 **[Agendamento automático de pagamentos](https://github.com/brunooliveira09/Auto-Agendar-Pagamento)** - Automação em Javascript, criada no Google App Script para criar eventos na agenda do Google de acordo com ações em uma planilha do Google.
