@@ -9,6 +9,10 @@ redirect_from:
 Sou um eterno entusiasta da automação, melhoria de processos e cultura maker e como meu perfil profissional não é de desenvolvedor, eu arrisco alguns códigos feios para implementar projetos pessoais. Aqui relaciono alguns projetos de estudos ou não que desenvolvi e co-participei.
 ## Concluídos
 
+**[Extensões Chrome](https://github.com/brunooliveira09/extensoes-chrome)** - Conjunto de extensões criadas para estudo de desenvolvimento (ou não), úteis ou não. Seguem extensões já criados até o momento:
+- É primo? - Extensão que recebe um número e exibe se o número informado é um número primo ou não;
+- Bozo Replace - Extensão que substitui, na página visitada, o nome Bolsonaro por apelidos diversos;
+
 **[Agendamento automático de pagamentos](https://github.com/brunooliveira09/Auto-Agendar-Pagamento)** - Automação em Javascript, criada no Google App Script para criar eventos na agenda do Google de acordo com ações em uma planilha do Google.
 
 **[Cafuné Kids](https://usecafune.com.br)** - E-commerce em Wordpress da loja de roupa infantil Cafuné Kids.
